@@ -1,5 +1,5 @@
 # IP Info Tool
-* `Just a simple tool to get IP's information, it uses `requests`  module to gather information about IP. `
+* `Just a simple tool to get IP's information, it uses 'requests'  module to gather information about IP. `
 
 # Features
 * `Country`
